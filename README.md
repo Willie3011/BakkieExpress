@@ -1,7 +1,18 @@
 # BakkieExpress
 BakkieExpress is a revolutionary web application designed to streamline the process of connecting customers in need of transport with bakkie drivers in South Africa.Built with efficiency and convenience in mind, BakkieExpress offers a centralized platform where users can easily find, book, and manage transportation services for their intercity and intracity travel needs.
 
+## Technologies Used / To be used:
+- HTML
+- CSS
+- ReactJS
+- NodeJs
+- Firebase / MongoDB
 
+### Libraries Needed:
+- Map libraries
+- Visualization libraries
+- Toast library
+  
 ## Key Features:
 
 - **Seamless Connection:** BakkieExpress provides a seamless connection between customers and bakkie drivers, eliminating the hassle of traditional methods such as social media groups. With just a few clicks, users can find available bakkies in their area and book their transportation with ease.
