@@ -13,3 +13,13 @@ BakkieExpress is a revolutionary web application designed to streamline the proc
 - **Reliable Service:** Rest assured that you're in good hands with BakkieExpress. Our platform only features verified and reliable bakkie drivers who are committed to providing safe and dependable transportation services. Customer satisfaction is our top priority.
 
 - **User-Friendly Interface:** Designed with the user in mind, BakkieExpress boasts a clean and intuitive interface that makes navigation a breeze. Whether you're a customer looking for transport or a bakkie driver offering your services, you'll find everything you need right at your fingertips.
+
+## Objectives:
+The objectives of this project are as follows:
+
+- Develop a user-friendly and intuitive web application that meets the needs of both customers and bakkie drivers.
+- Enhance transparency and trust by providing detailed information about available bakkies, pricing, and service quality.
+- Streamline the booking process to save time and resources for both customers and bakkie drivers.
+- Improve efficiency and reliability in the transportation industry by leveraging technology.
+- Foster a community-driven platform where users can provide feedback, share experiences, and contribute to continuous improvement.
+- Ensure scalability, security, and compliance with relevant regulations and standards.
