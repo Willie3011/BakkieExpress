@@ -14,6 +14,17 @@ BakkieExpress is a revolutionary web application designed to streamline the proc
 
 - **User-Friendly Interface:** Designed with the user in mind, BakkieExpress boasts a clean and intuitive interface that makes navigation a breeze. Whether you're a customer looking for transport or a bakkie driver offering your services, you'll find everything you need right at your fingertips.
 
+## Scope of the Project:
+
+The scope of this project includes the design, development, and implementation of a web application that serves two primary user groups: customers in need of transport and bakkie drivers offering their services. The platform will facilitate the following functionalities:
+
+- **Customer interface:** Allows customers to search for available bakkies based on their current location, destination, and specific requirements. Customers can view bakkie details, pricing, and ratings, book rides, and provide feedback.
+- **Bakkie driver interface:** Enables bakkie drivers to register, create profiles, and list their bakkies for hire. Drivers can set pricing, service areas, manage bookings, and communicate with customers.
+- **Admin dashboard:** Provides administrators with tools to manage user accounts, monitor platform activity, resolve disputes, and ensure compliance with policies.
+- **Payment integration:** Facilitates secure and convenient payment options for customers and bakkie drivers, ensuring smooth transactions.
+- **Feedback and review system:** Allows users to rate and review their experiences, fostering accountability and maintaining service quality.
+- **Scalability and future enhancements:** The platform will be designed to accommodate future expansions, such as adding new features, integrating additional payment methods, and scaling infrastructure to handle increased user traffic.
+
 ## Objectives:
 The objectives of this project are as follows:
 
